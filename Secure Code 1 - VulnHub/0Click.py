@@ -6,6 +6,8 @@
 # code will automatically use it, if you have it as binary, you can specify path with
 # --nc argument
 
+# NOTE: Exploit doesn't print flags on purpose.
+
 # https://github.com/Z3R013x/OSWE-Like-0Click
 # https://pwnit.io/
 
